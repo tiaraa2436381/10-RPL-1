@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>website RPL -home</title>
+</head>
+ <body>
+<h1>selamat datang di website RPL</h1>
+
+<nav>
+<a href="index.html">-home</a>|
+<a href="profil.html">-profil</a>|
+<a href="kontak.html">-kontak</a>|
+<a href="https://smkrpl.sch.id"target="_blank">website sekolah</a>
+</nav>
+
+<p> website ini dibuat oleh siswa kelas X RPL mrnggunakan HTML 
+    dan SPCK editor</p>
+ </body>
+</html>
